@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Project(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Project\r\n
+comment1.params=explist\ resultvar
+comment1.target=java.lang.String\ produceStatement(List,\ java.lang.String)
+comment2.params=explist
+comment2.target=java.lang.String\ produceExpression(List)
+comment3.params=
+comment3.target=boolean\ expressionLike()
+numComments=4

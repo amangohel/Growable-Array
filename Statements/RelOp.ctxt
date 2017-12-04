@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=op
+comment0.target=RelOp(java.lang.String)
+comment1.params=value
+comment1.target=int\ expressionLike(boolean)
+comment1.text=\r\n\ Checks\ whether\ the\ statement\ is\ expression\ like\r\n\ Uses\ a\ ternery\ operator\r\n\ Returns\ either\ true\ or\ false\r\n\ @param\ value\r\n\ checks\ expression\ if\ it\ is\ expression\ like\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=baseCase\ loopBody
+comment0.target=ForLoop(Statement,\ Statement)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ForLoop\r\n
+comment1.params=explist\ resultvar
+comment1.target=java.lang.String\ produceStatement(List,\ java.lang.String)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=AddConstant(int)
+comment1.params=
+comment1.target=java.lang.String\ addConstant()
+comment2.params=expList\ resultvar
+comment2.target=java.lang.String\ produceStatement(List,\ java.lang.String)
+comment3.params=
+comment3.target=boolean\ expressionLike()
+comment4.params=expList
+comment4.target=java.lang.String\ produceExpression(List)
+numComments=5

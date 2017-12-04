@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ expressionLike()
+comment1.params=args
+comment1.target=Compose(Statement[])
+comment2.params=varlist\ resultvar
+comment2.target=java.lang.String\ produceStatement(List,\ java.lang.String)
+comment3.params=varlist
+comment3.target=java.lang.String\ produceExpression(List)
+numComments=4

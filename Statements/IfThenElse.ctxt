@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cond\ thenPart\ elsePart
+comment0.target=IfThenElse(Statement,\ Statement,\ Statement)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ IfThenElse\r\n
+comment1.params=
+comment1.target=boolean\ expressionLike()
+comment2.params=expList
+comment2.target=java.lang.String\ produceExpression(List)
+comment3.params=expList\ resultvar
+comment3.target=java.lang.String\ produceStatement(List,\ java.lang.String)
+comment3.text=\r\n\ \ Using\ the\ if,\ then\ and\ else\ parts\r\n\ \ Each\ component\ of\ the\ statement\ is\ produced\ if\ it\ is\ expressionLike\r\n\ \ The\ result\ is\ then\ returned\ into\ a\ readable\ format\r\n\ \ @param\ expList\ the\ list\ that\ we\ are\ producing.\r\n\ \ @param\ resultvar\ the\ produced\ result.\r\n
+numComments=4
